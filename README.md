@@ -1,4 +1,4 @@
-# krautreporter
+# Was ist Krautreporter?
 
 Wir sind eine Community von mehr als 16.000 Menschen, die gemeinsam Krautreporter ermöglicht. Ein Online-Magazin, das dir dabei hilft, die Zusammenhänger besser zu verstehen. 
 
@@ -6,3 +6,12 @@ Wir sind eine Community von mehr als 16.000 Menschen, die gemeinsam Krautreporte
 * [Wie funktioniert die Community?](https://krautreporter.de/pages/community)
 * [Wer steckt hinter Krautreporter?](https://krautreporter.de/team)
 
+# Warum dieses Github? 
+
+Hier arbeiten wir gemeinsam an einigen Texten und Recherchen. 
+
+# Socials
+
+* [Newsletter](https://krautreporter.de/newsletter)
+* [Discord](https://discord.gg/hG32tDwCk8)
+* [Twitter](https://twitter.com/krautreporter)
