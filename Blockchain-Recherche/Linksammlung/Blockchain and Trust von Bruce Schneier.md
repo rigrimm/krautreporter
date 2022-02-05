@@ -1,0 +1,4 @@
+# [Blockchain and Trust von Bruce Schneier](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html)
+Bruce Schneier ist einer der weltweit geachtetsten Sicherheitsforscher, der insbesondere auch in Bezug auf Vertrauen forscht. Öffentliche Blockchains versuchen, Vertrauen durch Nachprüfbarkeit zu ersetzen, scheitern aber nach Schneier, da sie das soziale Gesamtgefüge nicht beachten:
+
+> These issues are not bugs in current blockchain applications, they’re inherent in how blockchain works. Any evaluation of the security of the system has to take the whole socio-technical system into account. Too many blockchain enthusiasts focus on the technology and ignore the rest.

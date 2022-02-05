@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anleitung.md",
+            "file": "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anleitung.md",
+                "file": "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0febf914fa4f99ae",
   "lastOpenFiles": [
+    "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
+    "Linksammlung/How NFT's Could SAVE Digital Ownership in Video Games.md",
+    "Linksammlung/vbuterins Replik an Moxie.md",
+    "Linksammlung/Das Dritte Web.md",
+    "Linksammlung/On Blockchain Voting, von Bruce Schneier.md",
+    "Linksammlung/Blockchain and Trust von Bruce Schneier.md",
+    "Linksammlung/Moxie Marlinspike on NFTs.md",
     "Anleitung.md",
     "Lexikon/Wash trade.md",
-    "Lexikon/on-chain.md",
-    "Lexikon/NFT.md",
-    "Lexikon/Blockchain.md",
-    "Vorlagen/TMPL Meinung.md",
-    "Linksammlung/vbuterins Replik an Moxie.md",
-    "Linksammlung/Moxie Marlinspike on NFTs.md",
-    "Lexikon/Minting.md",
-    "Vorlagen/TMPL Linkeintrag.md"
+    "Lexikon/on-chain.md"
   ]
 }
