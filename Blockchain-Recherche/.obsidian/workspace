@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
+            "file": "Meinungen/Warum man nicht neutral über Blockchain oder NFTs berichten kann.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
+                "file": "Meinungen/Warum man nicht neutral über Blockchain oder NFTs berichten kann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0febf914fa4f99ae",
   "lastOpenFiles": [
+    "Meinungen/Warum man nicht neutral über Blockchain oder NFTs berichten kann.md",
     "Linksammlung/Let me explain Blockchain gaming and Play-to-Earn.md",
     "Linksammlung/How NFT's Could SAVE Digital Ownership in Video Games.md",
     "Linksammlung/vbuterins Replik an Moxie.md",
@@ -97,7 +98,6 @@
     "Linksammlung/Blockchain and Trust von Bruce Schneier.md",
     "Linksammlung/Moxie Marlinspike on NFTs.md",
     "Anleitung.md",
-    "Lexikon/Wash trade.md",
-    "Lexikon/on-chain.md"
+    "Lexikon/Wash trade.md"
   ]
 }
