@@ -1,0 +1,2 @@
+# [How NFT's Could SAVE Digital Ownership in Video Games](https://www.youtube.com/watch?v=E7MFezUQLbQ)
+Ein YouTube Video in dem "Mike" darlegt, wie NFTs als Eigentumsbeleg für in-game-Assets bzw. Spiele funktionieren könnte.
