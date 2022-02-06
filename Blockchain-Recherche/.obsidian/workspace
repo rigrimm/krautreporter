@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lexikon/DeFi.md",
+            "file": "Lexikon/DLT.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexikon/DeFi.md",
+                "file": "Lexikon/DLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0febf914fa4f99ae",
   "lastOpenFiles": [
-    "Lexikon/DeFi.md",
     "Lexikon/DLT.md",
+    "Linksammlung/Radix DLT 1.0-beta.35.1.md",
+    "Linksammlung/vbuterins Replik an Moxie.md",
+    "Lexikon/NFT.md",
+    "Linksammlung/Blockchain and Trust von Bruce Schneier.md",
+    "Lexikon/Wash trade.md",
+    "Lexikon/DeFi.md",
     "Lexikon/Byzantine Fault Tolerance.md",
     "Lexikon/Blockchain.md",
-    "Lexikon/Wash trade.md",
-    "Lexikon/on-chain.md",
-    "Lexikon/NFT.md",
-    "Lexikon/Minting.md",
-    "Lexikon/Merkle Tree.md",
-    "Meinungen/Warum man nicht neutral über Blockchain oder NFTs berichten kann.md"
+    "Lexikon/on-chain.md"
   ]
 }
